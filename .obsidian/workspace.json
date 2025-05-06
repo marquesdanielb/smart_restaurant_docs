@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c406b854f8aafce0",
+        "id": "81e4ad0017d66175",
         "type": "tabs",
         "children": [
           {
-            "id": "a2902a6aad7d3dd8",
+            "id": "aaebec744f70cb2c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "Smart Restaurant/Menu/Hierarquia do Menu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "Hierarquia do Menu"
             }
           }
         ]
@@ -176,11 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2902a6aad7d3dd8",
+  "active": "b68de2bb7a1447f1",
   "lastOpenFiles": [
+    "Smart Restaurant/Visão Geral do Sistema.md",
     "Smart Restaurant/Menu/Hierarquia do Menu.md",
     "Smart Restaurant/smart_restaurant_docs",
-    "Smart Restaurant/Visão Geral do Sistema.md",
     "Engenharia de Dados/Sem título.md",
     "Smart Restaurant/Menu",
     "Smart Restaurant",
