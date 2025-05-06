@@ -66,3 +66,4 @@ O sistema permite compartilhar e reusar as entidades relacionadas ao Menu. ***ex
     - **Modificador Reutilizado:** "Arroz" é um item de menu independente e também uma opção de guarnição.
     - **Modificadores aninhados:** Se o cliente escolher "Arroz de Brócolis", um subgrupo "Molho" (ex: Molho Madeira, Molho de Alho) pode ser aplicado.
 
+masdkmasdmask
