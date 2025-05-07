@@ -1,0 +1,1 @@
+Dinâmicas populacionais (evolução nos censos), vetores de expansão e decréscimo populacional, migrações (internas e internacionais) - analisar regionalmente

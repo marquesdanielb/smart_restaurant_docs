@@ -1,0 +1,1 @@
+Saldo migratório = População Total + Taxa de Natalidade - Taxa de mortalidade
