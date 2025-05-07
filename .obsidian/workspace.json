@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grupo de Pesquisa (GEOGRAFIA)/Tema 02/Procurar por esses dados.md",
+                "file": "Smart Restaurant/Menu/Visão geral do construtor de menu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Procurar por esses dados"
+              "title": "Visão geral do construtor de menu"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.51103591918945
+    "width": 235.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1db68325a5775522",
@@ -176,17 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b68de2bb7a1447f1",
+  "active": "aaebec744f70cb2c",
   "lastOpenFiles": [
-    "Grupo de Pesquisa (GEOGRAFIA)/Tema 02/Saldo Migratório.md",
+    "Smart Restaurant/Menu/Hierarquia do Menu.md",
+    "Smart Restaurant/Menu/Visão geral do construtor de menu.md",
+    "Smart Restaurant/Visão Geral do Sistema.md",
     "Grupo de Pesquisa (GEOGRAFIA)/Tema 02/Procurar por esses dados.md",
+    "Grupo de Pesquisa (GEOGRAFIA)/Tema 02/Saldo Migratório.md",
     "Grupo de Pesquisa (GEOGRAFIA)/Tema 01/Procurar por esses dados.md",
     "Grupo de Pesquisa (GEOGRAFIA)/Tema 02",
-    "Smart Restaurant/Menu/Hierarquia do Menu.md",
     "Grupo de Pesquisa (GEOGRAFIA)/Tema 01",
     "Grupo de Pesquisa (GEOGRAFIA)",
     "Sem título.md",
-    "Smart Restaurant/Visão Geral do Sistema.md",
     "Smart Restaurant/smart_restaurant_docs",
     "Engenharia de Dados/Sem título.md",
     "Smart Restaurant/Menu",
