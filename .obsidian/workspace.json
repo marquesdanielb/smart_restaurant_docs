@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard Lecom/Processos LECOM/Exemplos de dados.md",
+                "file": "Dashboard Lecom/Processos LECOM/Dashboard SEGET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exemplos de dados"
+              "title": "Dashboard SEGET"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.51103591918945,
-    "collapsed": true
+    "width": 294.51103591918945
   },
   "right": {
     "id": "1db68325a5775522",
@@ -179,8 +178,8 @@
   },
   "active": "196805d9de260d0e",
   "lastOpenFiles": [
-    "Dashboard Lecom/Processos LECOM/Indicadores Dashboard.md",
     "Dashboard Lecom/Processos LECOM/Processos em prioridade.md",
+    "Dashboard Lecom/Processos LECOM/Dashboard SEGET.md",
     "Dashboard Lecom/Processos LECOM/Exemplos de dados.md",
     "Dashboard Lecom/Processos LECOM/imagens/detalhamento_por_processo_e_etapa_grupo.png",
     "Dashboard Lecom/Processos LECOM/imagens/distribuicao_por_processo_grupo.png",

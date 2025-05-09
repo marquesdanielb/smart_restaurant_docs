@@ -1,3 +1,4 @@
+Como alinhado em ligação iremos começar pelos processos de: *Averbação de imóvel*, *Lançamento de ITBI*, *Mudança de titularidade do Possuidor*.
 ## Visão por Processo
 ### Selecionar Processo:
 - Nome do Processo![[selecionar_processo.png]]
@@ -12,8 +13,9 @@
 
 ### Distribuição por Etapa:
 - Quantidade de processos em cada Etapa![[distribuicao_etapa.png]]
-- Detalhamento por Etapa![[detalhamento_etapa.png]]
-- Detalhar cada etapa![[detalhamento_por_etapa.png]]
+### Detalhamento por Etapa
+![[detalhamento_etapa.png]]
+- Detalhar cada etapa com a Data de entrada do processo e a quantidade de dias parados![[detalhamento_por_etapa.png]]
 
 
 ## Visão Por Usuário/Grupo
