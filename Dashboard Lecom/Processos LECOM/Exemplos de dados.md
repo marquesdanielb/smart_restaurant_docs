@@ -19,15 +19,45 @@ Aqui está um json de dados fictícios para a criação dos gráficos:
 
     processSteps: [
 
-      { process: "Certidão de Matrícula do Imóvel", step: "Assumir Análise de Fiscalização", blocked: 8, status: "open", blockedDays: 45 },
+      { 
+	      process: "Certidão de Matrícula do Imóvel", 
+	      step: "Assumir Análise de Fiscalização", 
+	      blocked: 8, 
+	      status: "open", 
+	      blockedDays: 45 
+	  },
 
-      { process: "Certidão de Matrícula do Imóvel", step: "Analisar Fiscalização", blocked: 5, status: "open", blockedDays: 30 },
+      { 
+	      process: "Certidão de Matrícula do Imóvel", 
+	      step: "Analisar Fiscalização", 
+	      blocked: 5, 
+	      status: "open", 
+	      blockedDays: 30 
+	  },
 
-      { process: "Atualização Cadastral", step: "Assumir Atividade", blocked: 4, status: "closed", blockedDays: 0 },
+      { 
+	      process: "Atualização Cadastral", 
+	      step: "Assumir Atividade", 
+	      blocked: 4, 
+	      status: "closed", 
+	      blockedDays: 0 
+	  },
 
-      { process: "Atualização Cadastral", step: "Responder Solicitação", blocked: 3, status: "open", blockedDays: 120 },
+      { 
+	      process: "Atualização Cadastral", 
+	      step: "Responder Solicitação", 
+	      blocked: 3, 
+	      status: "open", 
+	      blockedDays: 120 
+	  },
 
-      { process: "Transferência de Propriedade", step: "Analisar Impugnação", blocked: 4, status: "open", blockedDays: 190 },
+      { 
+	      process: "Transferência de Propriedade", 
+	      step: "Analisar Impugnação", 
+	      blocked: 4, 
+	      status: "open", 
+	      blockedDays: 190 
+	  },
 
     ],
 
@@ -63,13 +93,33 @@ Aqui está um json de dados fictícios para a criação dos gráficos:
 
     steps: [
 
-      { name: "Assumir Análise de Fiscalização", blocked: 15, percentage: 42.9, avgBlockedDays: 210 },
+      { 
+	      name: "Assumir Análise de Fiscalização", 
+	      blocked: 15, 
+	      percentage: 42.9, 
+	      avgBlockedDays: 210 
+	  },
 
-      { name: "Analisar Fiscalização", blocked: 8, percentage: 22.9, avgBlockedDays: 120 },
+      { 
+	      name: "Analisar Fiscalização", 
+	      blocked: 8, 
+	      percentage: 22.9, 
+	      avgBlockedDays: 120 
+	  },
 
-      { name: "Analisar Retorno da Exigência", blocked: 7, percentage: 20, avgBlockedDays: 75 },
+      { 
+	      name: "Analisar Retorno da Exigência", 
+	      blocked: 7, 
+	      percentage: 20, 
+	      avgBlockedDays: 75 
+	  },
 
-      { name: "Analisar Penalidade", blocked: 5, percentage: 14.2, avgBlockedDays: 65 },
+      { 
+	      name: "Analisar Penalidade", 
+	      blocked: 5, 
+	      percentage: 14.2, 
+	      avgBlockedDays: 65 
+	  },
 
     ],
 

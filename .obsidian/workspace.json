@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c048c88d5d8dd536",
+        "id": "e3491d566e7ca323",
         "type": "tabs",
         "children": [
           {
-            "id": "196805d9de260d0e",
+            "id": "b7b5a6dbef217589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard Lecom/Processos LECOM/Dashboard SEGET.md",
+                "file": "Engenharia de Dados/Material de Apoio/Variáveis e Coleções.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard SEGET"
+              "title": "Variáveis e Coleções"
+            }
+          },
+          {
+            "id": "c1de0844638b0e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard Lecom/Prompts/Api.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Api"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.51103591918945
+    "width": 238.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1db68325a5775522",
@@ -176,11 +192,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "196805d9de260d0e",
+  "active": "c1de0844638b0e2d",
   "lastOpenFiles": [
-    "Dashboard Lecom/Processos LECOM/Processos em prioridade.md",
-    "Dashboard Lecom/Processos LECOM/Dashboard SEGET.md",
+    "Grupo de Pesquisa (GEOGRAFIA)/Tema 01/Saldo Migratório.md",
+    "Dashboard Lecom/Prompts/Api.md",
+    "Dashboard Lecom/Prompts",
+    "Grupo de Pesquisa (GEOGRAFIA)/Tema 01/Procurar por esses dados.md",
+    "Sem título.md",
+    "Engenharia de Dados/1. Desenvolvimento do Projeto/3. Conhecendo o Projeto.md",
+    "Engenharia de Dados/1. Desenvolvimento do Projeto/2. Iniciando o Projeto.md",
+    "Engenharia de Dados/1. Desenvolvimento do Projeto/1. Apresentação.md",
+    "Engenharia de Dados/Material de Apoio/Variáveis e Coleções.md",
+    "Engenharia de Dados/Material de Apoio/Tipos de Dados Primitivos e Operadores.md",
+    "Engenharia de Dados/Material de Apoio",
+    "Engenharia de Dados/2. Extraindo e Manipulando os Dados/4. Unificação das estruturas de dados com DictReader.md",
+    "Engenharia de Dados/2. Extraindo e Manipulando os Dados/3. Lendo e manipulando com CSV Reader.md",
+    "Engenharia de Dados/2. Extraindo e Manipulando os Dados/2. Lendo arquivos CSV.md",
+    "Engenharia de Dados/2. Extraindo e Manipulando os Dados/1. Lendo dados com JSON.md",
+    "Engenharia de Dados/2. Extraindo e Manipulando os Dados",
+    "Engenharia de Dados/1. Desenvolvimento do Projeto",
+    "Grupo de Pesquisa (GEOGRAFIA)/Tema 02/Procurar por esses dados.md",
+    "asdnajks.md",
+    "Engenharia de Dados",
     "Dashboard Lecom/Processos LECOM/Exemplos de dados.md",
+    "Dashboard Lecom/Processos LECOM/Dashboard SEGET.md",
+    "Dashboard Lecom/Processos LECOM/Processos em prioridade.md",
     "Dashboard Lecom/Processos LECOM/imagens/detalhamento_por_processo_e_etapa_grupo.png",
     "Dashboard Lecom/Processos LECOM/imagens/distribuicao_por_processo_grupo.png",
     "Dashboard Lecom/Processos LECOM/imagens/selecionar_grupo_resumo_grupo.png",
@@ -192,39 +228,19 @@
     "Dashboard Lecom/Processos LECOM/imagens/detalhamento_etapa.png",
     "Dashboard Lecom/Processos LECOM/imagens/distribuicao_etapa.png",
     "Dashboard Lecom/Processos LECOM/imagens",
-    "Grupo de Pesquisa (GEOGRAFIA)/Tema 01/Procurar por esses dados.md",
     "Dashboard Lecom/Processos LECOM",
-    "Sem título",
-    "Grupo de Pesquisa (GEOGRAFIA)/Tema 02/Procurar por esses dados.md",
     "Smart Restaurant/Menu/Visão geral do construtor de menu.md",
-    "Grupo de Pesquisa (GEOGRAFIA)/Tema 02/Saldo Migratório.md",
     "Demanda Bruno (PROTOCOLO)/Requisição de mudança de fluxo.md",
     "Demanda Bruno (PROTOCOLO)",
-    "Sem título.md",
     "Sem título.canvas",
     "Smart Restaurant/Entendendo a hierarquia de menu.md",
     "Smart Restaurant/Menu/Hierarquia do Menu.md",
     "Smart Restaurant/Visão Geral do Sistema.md",
     "Grupo de Pesquisa (GEOGRAFIA)/Tema 02",
     "Grupo de Pesquisa (GEOGRAFIA)/Tema 01",
-    "Grupo de Pesquisa (GEOGRAFIA)",
-    "Smart Restaurant/smart_restaurant_docs",
-    "Engenharia de Dados/Sem título.md",
-    "Smart Restaurant/Menu",
-    "Smart Restaurant",
     "Dashboard Lecom/Estrutura da solução.md",
     "Dashboard Lecom/Estimativa de tempo.md",
     "Dashboard Lecom/Plano de Execução.md",
-    "Dashboard Lecom/Entendimento da Demanda.md",
-    "Dashboard Lecom/MVP/Planejamento de Sprints.md",
-    "Dashboard Lecom/MVP/Planejamento.md",
-    "Sem título 1.canvas",
-    "2025-04-11.md",
-    "2025-04-10.md",
-    "Dashboard Lecom/Bernardo/Processos Bernardo.md",
-    "3R Smart Restaurant/Passos/Passo 1.md",
-    "3R Smart Restaurant/Fluxo de trabalho.md",
-    "Restaurante777/Módulos Funcionais.md",
-    "Restaurante777/1. Arquitetura Geral do Sistema.md"
+    "Sem título 1.canvas"
   ]
 }
